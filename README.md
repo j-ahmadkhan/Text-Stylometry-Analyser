@@ -29,3 +29,5 @@ Users can specify their input directories with -i option and the output director
 The complete details of model are available at: http://ceur-ws.org/Vol-1866/paper_106.pdf
 
 Anyone needs to research over text forensic can use the software.
+The executable resides in directory 
+stylometry\authpr\bin\Debug with name of authpr.exe
