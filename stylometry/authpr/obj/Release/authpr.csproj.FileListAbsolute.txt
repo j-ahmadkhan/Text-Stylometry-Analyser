@@ -1,0 +1,9 @@
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\authpr.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\NHunspell.dll
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\OpenNLP.dll
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\SharpEntropy.dll
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\NHunspell.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Release\NHunspell.xml
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Release\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Release\authpr.pdb

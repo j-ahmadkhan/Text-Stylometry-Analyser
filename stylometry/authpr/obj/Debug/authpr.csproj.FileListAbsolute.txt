@@ -1,0 +1,18 @@
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\bin\Debug\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\bin\Debug\authpr.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\obj\Debug\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\obj\Debug\authpr.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\bin\Debug\NHunspell.dll
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\bin\Debug\NHunspell.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\bin\Debug\NHunspell.xml
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr\obj\Debug\authpr.csprojResolveAssemblyReference.cache
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Debug\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Debug\authpr.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Debug\NHunspell.dll
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Debug\NHunspell.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\bin\Debug\NHunspell.xml
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Debug\authpr.exe
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Debug\authpr.pdb
+E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Debug\authpr.csprojResolveAssemblyReference.cache
+D:\BitBucket\TextMining\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Debug\authpr.exe
+D:\BitBucket\TextMining\FINAL_SWS_ofc\intrinsic\authpr\authpr\obj\Debug\authpr.pdb

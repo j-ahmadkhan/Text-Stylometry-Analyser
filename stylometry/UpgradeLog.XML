@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="authpr">
+</Property><Property Name="Solution File" Value="E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr.sln">
+</Property><Property Name="User Options File" Value="E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\authpr.suo">
+</Property><Property Name="Date" Value="Tuesday, December 27, 2016">
+</Property><Property Name="Time" Value="8:47 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="authpr.sln" Description="File successfully backed up as E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\Backup\authpr.sln">
+</Event><Event ErrorLevel="0" Project="" Source="authpr.suo" Description="File successfully backed up as E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\Backup\authpr.suo">
+</Event><Event ErrorLevel="0" Project="authpr" Source="authpr\authpr.csproj" Description="Project file successfully backed up as E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\Backup\authpr\authpr.csproj">
+</Event><Event ErrorLevel="0" Project="authpr" Source="authpr\Program.cs" Description="File successfully backed up as E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\Backup\authpr\Program.cs">
+</Event><Event ErrorLevel="0" Project="authpr" Source="authpr\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\FINAL_SWS\FINAL\FINAL_SWS_ofc\author prof\authpr\Backup\authpr\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="authpr" Source="authpr\authpr.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="authpr" Source="authpr\authpr.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="authpr.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="authpr.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="authpr" Source="authpr\authpr.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
